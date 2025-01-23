@@ -62,8 +62,7 @@ Enhance the project by:
 ---
 
 ### 📸 Preview
-![Gradient Background Generator Preview](img/Day4%20Animated%20Navbar%20.png)  
-(*Insert screenshot or GIF of the gradient generator in action here*)
+![Gradient Background Generator Preview](img/Day4%20Animated%20Navbar%20.png)
 
 ---
 
